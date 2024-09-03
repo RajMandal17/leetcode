@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajMandal17/leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/RajMandal17/leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/RajMandal17/leetcode/tree/master/0204-count-primes) |
 | [1635-number-of-good-pairs](https://github.com/RajMandal17/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RajMandal17/leetcode/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/RajMandal17/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/RajMandal17/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
