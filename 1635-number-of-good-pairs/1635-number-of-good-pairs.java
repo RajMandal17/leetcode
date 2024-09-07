@@ -7,10 +7,10 @@ class Solution {
             if (freq.containsKey(num)) {
                 
                 count += freq.get(num);
-                // Increment the frequency count of the current num
+              
                 freq.put(num, freq.get(num) + 1);
             } else {
-                // If num is seen for the first time, set its frequency to 1
+                
                 freq.put(num, 1);
             }
         }
